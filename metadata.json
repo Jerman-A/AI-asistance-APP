@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Nexus",
+  "description": "A next-generation AI assistant featuring multimodal chat with grounding and real-time voice interaction using the Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
